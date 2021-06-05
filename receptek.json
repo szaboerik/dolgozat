@@ -1,0 +1,34 @@
+[
+{
+    "nev":"Somlói galuska",
+    "elkeszitesi_ido":"30 perc",
+    "eleresi_ut":"somloi.jpg",
+    "leiras":"igy kell elkészíteni a somlóit",
+    "kategoria":"edesseg",
+    "ar":"1300"
+},
+{
+    "nev":"zsíros kenyér",
+    "elkeszitesi_ido":"3 perc",
+    "eleresi_ut":"zsirosk.jpg",
+    "leiras":"igy kell elkészíteni a zsíros kenyeret",
+    "kategoria":"reggeli",
+    "ar":"300" 
+},
+{
+    "nev":"kolbász",
+    "elkeszitesi_ido":"20 perc",
+    "eleresi_ut":"fustolt-kolbasz-600x450.jpg",
+    "leiras":"igy kell elkészíteni a kolbászt",
+    "kategoria":"főétel",
+    "ar":"1000" 
+},
+{
+    "nev":"töltött káposzta",
+    "elkeszitesi_ido":"60 perc",
+    "eleresi_ut":"klasszikus-toltott-kaposzta.jpg",
+    "leiras":"igy kell elkészíteni a töltött káposztát",
+    "kategoria":"ebéd",
+    "ar":"300" 
+}
+]
